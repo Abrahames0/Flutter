@@ -37,7 +37,7 @@
 ![Classes](./assets/images/classes.jpg)
 
 ### 07: Constructors and Names (0.25 puntos)
-![Constructors and Names](./assets/images/Contructores,clases,getSet.jpg)
+![Constructors and Names](./assets/images/Contructores,clases,getSe.jpg)
 
 ### 08: Get and Set (0.25 puntos)
 ![Get and Set](./assets/images/set%20y%20get.jpg)
